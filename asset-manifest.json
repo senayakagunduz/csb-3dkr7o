@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://senayakagunduz.github.io/csb-3dkr7o/static/css/main.82d895d0.chunk.css",
+    "main.js": "https://senayakagunduz.github.io/csb-3dkr7o/static/js/main.c8594142.chunk.js",
+    "main.js.map": "https://senayakagunduz.github.io/csb-3dkr7o/static/js/main.c8594142.chunk.js.map",
+    "runtime-main.js": "https://senayakagunduz.github.io/csb-3dkr7o/static/js/runtime-main.c6f44f43.js",
+    "runtime-main.js.map": "https://senayakagunduz.github.io/csb-3dkr7o/static/js/runtime-main.c6f44f43.js.map",
+    "static/js/2.10203a31.chunk.js": "https://senayakagunduz.github.io/csb-3dkr7o/static/js/2.10203a31.chunk.js",
+    "static/js/2.10203a31.chunk.js.map": "https://senayakagunduz.github.io/csb-3dkr7o/static/js/2.10203a31.chunk.js.map",
+    "index.html": "https://senayakagunduz.github.io/csb-3dkr7o/index.html",
+    "static/css/main.82d895d0.chunk.css.map": "https://senayakagunduz.github.io/csb-3dkr7o/static/css/main.82d895d0.chunk.css.map",
+    "static/js/2.10203a31.chunk.js.LICENSE.txt": "https://senayakagunduz.github.io/csb-3dkr7o/static/js/2.10203a31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6f44f43.js",
+    "static/js/2.10203a31.chunk.js",
+    "static/css/main.82d895d0.chunk.css",
+    "static/js/main.c8594142.chunk.js"
+  ]
+}
